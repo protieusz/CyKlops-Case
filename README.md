@@ -6,6 +6,7 @@ Created the CyKlops case aka clops case https://github.com/calvin-mcd/clops whic
 CyKlops case was painfully created from the extracted DXF files from the clops's PCB files that Fusion360 was constantly crashing my MacM1.
 STEP files are included so you can edit or modify.
 STL files are also included.
+Use hot inserts M2 3.2 diamter and 3-4mmm length and M2 screws 12mm length.
 
 clops PCB files are open sourced and linked on the above link to calvin-mcd's GitHub site.
 
