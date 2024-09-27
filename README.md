@@ -4,8 +4,7 @@ CyKlops Case created from calvin-mcd's clops pcb which the KLE was designed by H
 # Description
 Created the CyKlops case aka clops case https://github.com/calvin-mcd/clops which the PCB was designed by calvin-mcd and KLE by HA HA HA and noelle (deer).  
 CyKlops case was painfully created from the extracted DXF files from the clops's PCB files that Fusion360 was constantly crashing my MacM1.
-Scott Summers aka Cyclops' head was borrowed from https://www.iconfinder.com/icons/2377468/cyclops_marvel_super_hero_x-men_icon.
-STEP and f3d files are included so you can edit or modify.
+STEP files are included so you can edit or modify.
 STL files are also included.
 
 clops PCB files are open sourced and linked on the above link to calvin-mcd's GitHub site.
