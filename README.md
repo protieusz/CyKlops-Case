@@ -12,6 +12,11 @@ clops PCB files are open sourced and linked on the above link to calvin-mcd's Gi
 
 I don't have the clops PCB myself so please print CyKlops case at your own risk and no support will be given.
 
+# Full Production Pic
+https://discord.com/channels/527180441950617611/529309006494171137/1289575518752084073
+Pic by HA HA HA
+
+
 # Renders
 ![Screenshot 2024-09-27 at 11 37 35 AM](https://github.com/user-attachments/assets/a68df52f-bd9f-4038-8824-fc86505e3993)
 ![Screenshot 2024-09-27 at 11 37 44 AM](https://github.com/user-attachments/assets/5ef25e26-f9f0-42e5-941e-093d1a507282)
